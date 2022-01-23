@@ -1,5 +1,5 @@
 #!/bin/bash
-# @mitzex01 20211228
+# @mikex01 20211228
 # delete old indice pattern in elasticsearch
 # cron job: 10 0 * * 1 /opt/retention/3s_r3t3nt10n.sh
 
